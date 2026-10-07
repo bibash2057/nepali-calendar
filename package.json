@@ -1,5 +1,5 @@
 {
-  "name": "@bibash007/nepali-calendar",
+  "name": "nepali-calendar-bs",
   "version": "1.0.2",
   "description": "Bikram Sambat (BS) calendar logic and React hooks",
   "type": "module",
